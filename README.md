@@ -1,5 +1,5 @@
 ## Hi Im Werapol Jaranai, Wellcome to My Github profile 👋
-### Hi Im Werapol Jaranai, Wellcome to My Github profile 👋
+### Hi Im Werapol Jaranai, Wellcome to My Github profile  <img src="./icons/Idea-Dark.svg" width="48">    
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>

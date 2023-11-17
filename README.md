@@ -4,7 +4,7 @@
 </div>
 <div id="badges" align="center"> 
   <a href="your-linkedin-URL" > 
-    <img src="https://codesandbox.io/_next/image?url=%2Fnew%2Fimages%2Fbrand%2Fcodesandbox-logo.jpg&w=3840&q=10" width="150" alt="codesandbox"/>
+    <img src="https://codesandbox.io/_next/image?url=%2Fnew%2Fimages%2Fbrand%2Fcodesandbox-logo.jpg&w=3840&q=10" alt="codesandbox"/>
   </a>
   <a href="your-youtube-URL" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
